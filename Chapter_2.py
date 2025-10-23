@@ -38,3 +38,23 @@ Internet Scripting
 Data analysis
 Core security tools
 '''
+
+#keywords in python
+"There are some keywords in python. keyword cannot be used in variable. thoose shown value"
+'''False, await, else, import, pass, None, break, except, in, raise, True, class, finally, is, 
+return, and, continue, for, lambda, try, as, def, from, nonlocal, while, assert, del, global, not, with, async, elif, if, or, yield '''  
+# we can check keword list via terminal the terminal command is
+'''
+import keyword
+print(keyword.kwlist)
+'''
+#examples of keywords
+'''1. True or False: True and False is python's truth value. It is python's comparison or logical operation's result.
+Examples: 1==1 True, 10<=1 False, 5>3 True'''
+'''2. Class object used to create new user define class
+class Exampleclass:
+    def function1(parameters)
+
+    def function2(parameters)
+
+'''
