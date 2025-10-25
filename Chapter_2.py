@@ -58,3 +58,13 @@ class Exampleclass:
     def function2(parameters)
 
 '''
+
+
+#Branching in python
+"""There are tree types of branching 
+if, elif, elif/n, else
+First we put a statement in if. If the statements is not true then we moved to 2nd one
+If 2nd one elif not works then we try another elif. if all of the elif will not work then we
+assign else it will work
+We type if: like this, in the next line we put 1tab or 4 spaces this wi for all branching statements
+"""
